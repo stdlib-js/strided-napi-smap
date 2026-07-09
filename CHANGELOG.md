@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-07-09)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`49456e6`](https://github.com/stdlib-js/stdlib/commit/49456e6bc2452bb4190c487f39860ed5fee3f80d) - **bench:** use `isnanf` in `strided/napi/smap` [(#13385)](https://github.com/stdlib-js/stdlib/pull/13385) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-01)
